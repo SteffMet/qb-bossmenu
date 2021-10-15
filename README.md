@@ -14,8 +14,8 @@ Edited Version of qb-bossmenu
 <hr>
 <p align="center"><img src='https://i.imgur.com/oqB7MXR.png)'></img></p>
 <p align="center"><img src='https://i.imgur.com/7ImbegC.png)'></img></p>
-<hr>
 <br><br><br>
-<hr>
-This script was edited by Steff#1940 - If you are the original creator if this and want it taken down please send me a message. 
 
+<hr>
+This script was edited by Steff#1940 - If you are the original creator if this and want it taken down please send me a message.
+<hr>
