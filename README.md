@@ -5,7 +5,6 @@ IF YOU NOTICE ANY ISSUES PLEASE REPORT THEM
 Edited Version of qb-bossmenu
 
 ### Requires [QBCore Framework](https://github.com/qbcore-framework)
-<hr>
 * Simply drag this into your QB Resource folder - Delete old version if you have it installed. 
 * Improved Version of qb-bossmenu.
 * New UI interface
