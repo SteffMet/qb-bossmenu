@@ -6,7 +6,7 @@
 - Add ensure qb-bossmenu to your config file
 
 <br>
-![image](https://i.imgur.com/oqB7MXR.png)
+![Boss Menu Image](https://i.imgur.com/oqB7MXR.png)
 <br>
-![image](https://i.imgur.com/7ImbegC.png)
+![Boss Menu Image 2](https://i.imgur.com/7ImbegC.png)
 
