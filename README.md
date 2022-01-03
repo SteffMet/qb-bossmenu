@@ -16,6 +16,4 @@ Edited Version of qb-bossmenu
 <p align="center"><img src='https://i.imgur.com/7ImbegC.png)'></img></p>
 <br><br><br>
 
-<hr>
-This script was edited by Steff#1940 - If you are the original creator if this and want it taken down please send me a message.
-<hr>
+
