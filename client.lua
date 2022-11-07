@@ -1,5 +1,4 @@
-
-QBCore = nil
+local QBCore = exports['qb-core']:GetCoreObject()
 PlayerJob = {}
 isLoggedIn = false
 
