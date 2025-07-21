@@ -16,13 +16,6 @@ Keys = {
 }
 
 Citizen.CreateThread(function()
-   -- while true do
-    --    Citizen.Wait(10)
-    --    if QBCore == nil then
-    --        TriggerEvent('QBCore:GetObject', function(obj) QBCore = obj end)
-    --        Citizen.Wait(200)
-    --    end
-   -- end
    while QBCore == nil do
     TriggerEvent('QBCore:GetObject', function(obj) QBCore = obj end)
     Citizen.Wait(200)
